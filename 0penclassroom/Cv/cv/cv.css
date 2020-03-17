@@ -1,0 +1,30 @@
+div
+{
+    border: 2px black solid;
+    margin: 2px;
+    overflow: auto;
+}
+
+#acc
+{
+    display: flex;
+}
+
+#entete
+{
+    text-align: center;
+}
+
+#app
+{
+    height: 50%;
+}
+
+#partig
+{
+    margin-right: 5%;
+    padding-bottom: 20%;
+    width: 30%;
+    padding-left: 5%;
+    
+}
